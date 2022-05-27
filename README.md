@@ -1,4 +1,6 @@
 # Python Adaptive KDE
 
-WIP - The goal of this package is to provide a python package that can calculate 1-dimensional or 
-2-dimensional adaptive Kernel Density Estimations. 
+##WIP
+The code can be found in (kdes.py)[kdes.py]
+
+The goal of this repo is to provide a way to easily calculate 1-dimensional or 2-dimensional adaptive Kernel Density Estimations. A proper encapsualtion in a python package will be released later.
